@@ -6,4 +6,7 @@
 <a href="https://instagram.com/casobrino_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="casobrino_" height="20" width="40" /></a> -->
 </p>
 
+![Blazor](https://img.shields.io/badge/Framework-Blazor-512BD4?logo=blazor&logoColor=white)
+![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zetasab&show_icons=true&locale=en&layout=compact" alt="Zetasab" /></p>
