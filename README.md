@@ -1,10 +1,13 @@
+![Logo](Header.png)
+
+
 <h1 align="center">¡Hola!, Soy Cesar Sobrino👋</h1>
 <h3 align="center">Soy FullStack Developer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cesar-sobrino-arribas-1b887021b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cesar-sobrin0" height="20" width="40" /></a>
-<a href="https://www.instagram.com/zetasaab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="casobrino_" height="20" width="40" /></a>
-<a href="https://zetasab.github.io/cesarsobrino/" target="blank"><img align="center" src="https://zetasab.github.io/cesarsobrino/images/cesar-grey-max-radius.png" alt="casobrino_" height="25" width="25" /></a>
+<a href="https://www.instagram.com/zetasaab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cesarsobrino_" height="20" width="40" /></a>
+<a href="https://zetasab.github.io/cesarsobrino/" target="blank"><img align="center" src="https://github.com/Zetasab.png" alt="cesarsobrino_" height="25" width="25" /></a>
 </p>
 <p align="center">💻 Tecnologias que mas uso:</p>
 
@@ -16,6 +19,11 @@
 ![CSS](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&logoColor=white)
 
+<p align="center"> 📚 Aprendizaje</p>
+
+![Vue](https://img.shields.io/badge/Framework-Vue-4FC08D?logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/Library-React-61DAFB?logo=react&logoColor=20232A)
+
 <p align="center"> ⚙️ Backend</p>
 
 ![C#](https://img.shields.io/badge/Language-C%23-239120?logo=csharp&logoColor=white)
@@ -25,4 +33,12 @@
 
 
 <h3 align="center">Lenguajes mas usados en repositorios públicos</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zetasab&show_icons=true&locale=en&layout=compact" alt="Zetasab" /></p>
+<p align="center"><img align="center" 
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zetasab&layout=compact" /></p>
+
+
+<p align="center">
+     <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Zetasab&theme=transparent&hide_border=true&locale=es&short_numbers=true" alt="GitHub Streak" />
+     </a>
+</p>
