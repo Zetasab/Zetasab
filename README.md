@@ -34,7 +34,7 @@
 
 <h3 align="center">Lenguajes mas usados en repositorios públicos</h3>
 <p align="center"><img align="center" 
-     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zetasab&layout=compact" /></p>
+     src="https://github-readme-stats-steel-nu-81.vercel.app/api/top-langs/?username=Zetasab&layout=compact" /></p>
 
 
 <p align="center">
